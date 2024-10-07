@@ -1,0 +1,119 @@
+[
+    {
+      "Name": "Hex Dumbbells",
+      "Description": "Rust-resistent and comfortable stainless steel handle",
+      "Price": 15,
+      "PictureUrl": "/images/products/Hex-dumbbells.png",
+      "Type": "Dumbbells",
+      "Brand": "World Fitness",
+      "QuantityInStock": 20
+    },
+    {
+      "Name": "Plastic Dumbbells With Bar",
+      "Description": "Made of the finest treated plastic",
+      "Price": 50,
+      "PictureUrl": "/images/products/Plastic-dumbbellswithbar.png",
+      "Type": "Dumbbells",
+      "Brand": "World Fitness",
+      "QuantityInStock": 10
+    },
+    {
+      "Name": "Stainless Dumbbells",
+      "Description": "Rust-resistent and comfortable stainless steel handle",
+      "Price": 6,
+      "PictureUrl": "/images/products/Stainless-dumbbells",
+      "Type": "Dumbbells",
+      "Brand": "World Fitness",
+      "QuantityInStock": 25
+    },
+    {
+      "Name": "Stainless Steel Kettle",
+      "Description": "High quality material made of unbreakble materails",
+      "Price": 4,
+      "PictureUrl": "/images/products/Stainless-steelkettle.png",
+      "Type": "Dumbbells",
+      "Brand": "World Fitness",
+      "QuantityInStock": 16
+    },
+    {
+      "Name": "Home Gym",
+      "Description": "Multi-purpose sports equipment for building muscle and toning the body",
+      "Price": 250,
+      "PictureUrl": "/images/products/Home-Gym.png",
+      "Type": "HomeGymDevices",
+      "Brand": "World Fitness",
+      "QuantityInStock": 8
+    },
+    {
+      "Name": "Home Gym With Heater",
+      "Description": "All bodybuilding exercises",
+      "Price": 1400,
+      "PictureUrl": "/images/products/HomeGym-withheater.png",
+      "Type": "HomeGymDevices",
+      "Brand": "World Fitness",
+      "QuantityInStock": 5
+    },
+    {
+      "Name": "Home Gym Multi Action",
+      "Description": "A Complete and Multi-Use Club in Your Home",
+      "Price": 1000,
+      "PictureUrl": "/images/products/HomeGym-MultiAction.png",
+      "Type": "HomeGymDevices",
+      "Brand": "World Fitness",
+      "QuantityInStock": 7
+    },
+    {
+      "Name": "Original Wall Mind",
+      "Description": "Top handle for multiple exercises",
+      "Price": 25,
+      "PictureUrl": "/images/products/Original-WallMind.png",
+      "Type": "Accessories",
+      "Brand": "World Fitness",
+      "QuantityInStock": 23
+    },
+    {
+      "Name": "Weight Lifting Belt",
+      "Description": "Original back belt of very high quality",
+      "Price": 16,
+      "PictureUrl": "/images/products/WeightLiftBelt.png",
+      "Type": "Accessories",
+      "Brand": "World Fitness",
+      "QuantityInStock": 30
+    },
+    {
+      "Name": "MD Buddy Original Bar Sponge",
+      "Description": "Made from finest materials to suit training uses",
+      "Price": 14,
+      "PictureUrl": "/images/products/BuddyBarSponge.png",
+      "Type": "Accessories",
+      "Brand": "MD Buddy",
+      "QuantityInStock": 27
+    },
+    {
+      "Name": "Moving Bench",
+      "Description": "Movable bench",
+      "Price": 65,
+      "PictureUrl": "/images/products/MovingBench.png",
+      "Type": "Benches",
+      "Brand": "World Fitness",
+      "QuantityInStock": 10
+    },
+    {
+      "Name": "Heavy Roman Bench",
+      "Description": "Made of finest treated iron",
+      "Price": 350,
+      "PictureUrl": "/images/products/HeavyRomanBench.png",
+      "Type": "Benches",
+      "Brand": "World Fitness",
+      "QuantityInStock": 5
+    },
+    {
+      "Name": "Multi Adjustable Bench",
+      "Description": "Multiple angles and degrees",
+      "Price": 189.99,
+      "PictureUrl": "/images/products/MultiAdjustableBench.png",
+      "Type": "Benches",
+      "Brand": "World Fitness",
+      "QuantityInStock": 5
+    }
+  ]
