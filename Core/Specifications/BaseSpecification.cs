@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Net;
+using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 using Core.Interfaces;
 
@@ -37,4 +38,22 @@ namespace Core.Specifications
 
 
     }
+
+    public class BaseSpecification<T, TResult> : BaseSpecification<T>, ISpecification<T, TResult>
+    {
+        private readonly Expression<Func<T, bool>> _critria;
+
+        public BaseSpecification(Expression<Func<T, bool>> critria) : base(critria)
+        {
+            _critria = critria;
+        }
+
+        public Expression<Func<T, TResult>>? Select { get; private set; }
+
+        protected void AddSelect(Expression<Func<T, TResult>> selectExperssion)
+        {
+            Select = selectExperssion;
+        }
+    }
+
 }
